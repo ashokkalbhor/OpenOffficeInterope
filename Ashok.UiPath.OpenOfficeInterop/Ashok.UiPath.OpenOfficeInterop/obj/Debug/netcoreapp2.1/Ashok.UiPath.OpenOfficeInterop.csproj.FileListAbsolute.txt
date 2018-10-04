@@ -1,0 +1,11 @@
+C:\Users\akalbhor\source\repos\Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop\bin\Debug\netcoreapp2.1\Ashok.UiPath.OpenOfficeInterop.deps.json
+C:\Users\akalbhor\source\repos\Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop\bin\Debug\netcoreapp2.1\Ashok.UiPath.OpenOfficeInterop.runtimeconfig.json
+C:\Users\akalbhor\source\repos\Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop\bin\Debug\netcoreapp2.1\Ashok.UiPath.OpenOfficeInterop.runtimeconfig.dev.json
+C:\Users\akalbhor\source\repos\Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop\bin\Debug\netcoreapp2.1\Ashok.UiPath.OpenOfficeInterop.dll
+C:\Users\akalbhor\source\repos\Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop\bin\Debug\netcoreapp2.1\Ashok.UiPath.OpenOfficeInterop.pdb
+C:\Users\akalbhor\source\repos\Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop\obj\Debug\netcoreapp2.1\Ashok.UiPath.OpenOfficeInterop.csproj.CoreCompileInputs.cache
+C:\Users\akalbhor\source\repos\Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop\obj\Debug\netcoreapp2.1\Ashok.UiPath.OpenOfficeInterop.AssemblyInfoInputs.cache
+C:\Users\akalbhor\source\repos\Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop\obj\Debug\netcoreapp2.1\Ashok.UiPath.OpenOfficeInterop.AssemblyInfo.cs
+C:\Users\akalbhor\source\repos\Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop\obj\Debug\netcoreapp2.1\Ashok.UiPath.OpenOfficeInterop.dll
+C:\Users\akalbhor\source\repos\Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop\obj\Debug\netcoreapp2.1\Ashok.UiPath.OpenOfficeInterop.pdb
+C:\Users\akalbhor\source\repos\Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop\obj\Debug\netcoreapp2.1\Ashok.UiPath.OpenOfficeInterop.csprojAssemblyReference.cache

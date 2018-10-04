@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ashok.UiPath.OpenOfficeInterop", "Ashok.UiPath.OpenOfficeInterop\Ashok.UiPath.OpenOfficeInterop.csproj", "{A769E23D-068E-4F65-8B5A-0833014B51B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A769E23D-068E-4F65-8B5A-0833014B51B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A769E23D-068E-4F65-8B5A-0833014B51B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A769E23D-068E-4F65-8B5A-0833014B51B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A769E23D-068E-4F65-8B5A-0833014B51B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7133A94-9785-43A7-AC49-3BC3EE843B49}
+	EndGlobalSection
+EndGlobal
